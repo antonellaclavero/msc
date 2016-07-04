@@ -86,3 +86,34 @@ h1.sale-info {
   letter-spacing: 1px;
 }
 
+/*Parallelogram Titles*/
+
+div.container-parallelogram {
+  text-align: center;
+}
+a.parallelogram { 
+  transform: skewX(-17deg); 
+}
+a.parallelogram p { 
+  transform: skewX(17deg); 
+}
+a.parallelogram {
+  display: inline-block;
+  margin: .5em;
+  padding: 17px 2%;
+  background: #1B0A09;
+  color: #fff;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-family: "AgencyFB-Bold", sans-serif;
+  font-size: 18pt;
+  letter-spacing: 1px;
+}
+
+/*
+* Section LineUp
+*/
+section.line-up {
+  background: transparent url("../images/background-pattern.svg") center top no-repeat;
+  background-size: cover;
+}
