@@ -118,6 +118,7 @@ section.line-up {
   background: transparent url("../images/background-pattern.svg") center top no-repeat;
   background-size: cover;
   padding: 0 10%;
+  overflow: auto;
 }
 section.line-up div.column {
   width: 23.5%;
