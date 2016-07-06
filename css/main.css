@@ -139,14 +139,40 @@ section.line-up div.column article img {
 /*
 * Section Event
 */
-section.event h1 {
+section#event h1 {
   text-align: left;
-  font-size: 21pt;
+  font-size: 23pt;
   line-height: 23pt;
   letter-spacing: 2px;
   display: inline-block;
+  margin: 0.2em 0 1em 0;
 }
-section.event p {
+section#event p {
   font-family: 'Gotham Book', sans-serif;
+  color: #444;
+  font-size: 14pt;
+  line-height: 26pt;
 }
-
+section.container.even.cards {
+  padding: 110px 11% 50px;
+}
+section.container {
+  overflow: auto;
+}
+section.container div.column {
+  float: left;
+  width: 44%;
+  margin-right: 6%;
+}
+section#event article.card {
+  margin: 2em 0;
+}
+section#event article.card img {
+  position: absolute;
+}
+section#event article.card h1,
+p {
+  position: relative;
+  left: 138px;
+  padding: 0 17% 0 0
+}
