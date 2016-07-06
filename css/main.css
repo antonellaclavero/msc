@@ -195,5 +195,30 @@ section.programing img {
 /*
 * Footer
 */
-
-
+footer {
+  background: url("../images/pattern-1.svg") no-repeat repeat;
+  padding: 0 102px 0 110px;
+  overflow: auto;
+}
+footer ul li {
+  display: inline-block;
+  margin: 0 1em;
+} 
+footer div.row {
+  background-color: #fff;
+  margin: 60px 0;
+  padding: 57px 54px;
+}
+footer div.row h2 {
+  font-family: "AgencyFB-Bold", sans-serif;
+  font-size: 20pt;
+  line-height: 20pt;
+  text-transform: uppercase;
+  letter-spacing: 0.2px;
+}
+footer div.row img.resize {
+  width: 60px;
+}
+footer span {
+  display: none;
+}
