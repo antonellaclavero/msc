@@ -222,3 +222,6 @@ footer div.row img.resize {
 footer span {
   display: none;
 }
+footer div.row.last {
+  padding: 50px 20%;
+}
