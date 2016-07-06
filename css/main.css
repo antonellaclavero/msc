@@ -33,18 +33,16 @@ h3 {
   letter-spacing: 1.8px;
   font-family: "AgencyFB-Bold", sans-serif;
 }
-h1.blue,
-h3.blue {
+.blue {
   color: #448aeb;
 }
-h1.pink {
+.pink {
   color: #ff50a2;
 }
-h1.orange,
-h3.orange {
+.orange {
   color: #ff5200;
 }
-h2.brown {
+.brown {
   color: #360000;
 }
 
@@ -141,4 +139,14 @@ section.line-up div.column article img {
 /*
 * Section Event
 */
+section.event h1 {
+  text-align: left;
+  font-size: 21pt;
+  line-height: 23pt;
+  letter-spacing: 2px;
+  display: inline-block;
+}
+section.event p {
+  font-family: 'Gotham Book', sans-serif;
+}
 
