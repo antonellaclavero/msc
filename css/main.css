@@ -178,3 +178,16 @@ p {
   left: 138px;
   padding: 0 17% 0 0
 }
+
+/*
+* Section Programing
+*/
+section.programing {
+  background: url("../images/textura.svg") center left no-repeat;
+  background-size: cover;
+}
+section.programing img {
+  margin: 0 auto;
+  display: block;
+  width: 68%;
+}

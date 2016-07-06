@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="990px" height="1417px" viewBox="0 0 990 1417" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="180" height="1289"></rect>
+        <rect id="path-3" x="0" y="0" width="180" height="1289"></rect>
+        <rect id="path-5" x="1.13686838e-13" y="0" width="180" height="1289"></rect>
+        <rect id="path-7" x="1.13686838e-13" y="0" width="180" height="1289"></rect>
+        <rect id="path-9" x="5.68434189e-14" y="0" width="200" height="164"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-11">
+            <feOffset dx="0" dy="9" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.237064085 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-12" x="0" y="0" width="200" height="164"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-14">
+            <feOffset dx="0" dy="9" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.237064085 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-15" x="0" y="0" width="200" height="164"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-17">
+            <feOffset dx="0" dy="9" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.237064085 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-18" x="0" y="0" width="200" height="164"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-20">
+            <feOffset dx="0" dy="9" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.237064085 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-21" x="0" y="0" width="201" height="82"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-23">
+            <feOffset dx="0" dy="9" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.237064085 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-24" x="0" y="0" width="201" height="82"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-26">
+            <feOffset dx="0" dy="9" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.237064085 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-27" x="0" y="0" width="180" height="60"></rect>
+        <rect id="path-29" x="0" y="0" width="180" height="60"></rect>
+        <rect id="path-31" x="1.13686838e-13" y="0" width="180" height="60"></rect>
+        <rect id="path-33" x="1.13686838e-13" y="0" width="180" height="60"></rect>
+        <rect id="path-35" x="0" y="0" width="201" height="82"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-37">
+            <feOffset dx="0" dy="9" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.237064085 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-38" x="0" y="0" width="201" height="82"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-40">
+            <feOffset dx="0" dy="9" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.237064085 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-41" x="0" y="0" width="201" height="82"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-43">
+            <feOffset dx="0" dy="9" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.237064085 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-44" x="0" y="0" width="201" height="82"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-46">
+            <feOffset dx="0" dy="9" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.237064085 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-47" x="0" y="0" width="200" height="164"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-49">
+            <feOffset dx="0" dy="9" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.237064085 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-50" x="0" y="0" width="200" height="164"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-52">
+            <feOffset dx="0" dy="9" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.237064085 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-53" x="5.68434189e-14" y="0" width="200" height="164"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-55">
+            <feOffset dx="0" dy="9" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.237064085 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-56" x="5.68434189e-14" y="0" width="200" height="164"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-58">
+            <feOffset dx="0" dy="9" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.237064085 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-59" x="5.68434189e-14" y="0" width="200" height="164"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-61">
+            <feOffset dx="0" dy="9" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.237064085 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-62" x="5.68434189e-14" y="0" width="200" height="164"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-64">
+            <feOffset dx="0" dy="9" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.237064085 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-65" x="737" y="984" width="201" height="132"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-67">
+            <feOffset dx="0" dy="9" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.237064085 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-68" x="737" y="705" width="201" height="132"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-70">
+            <feOffset dx="0" dy="9" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.237064085 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-71" x="737" y="852" width="201" height="107"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-73">
+            <feOffset dx="0" dy="9" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.237064085 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Boostrap-3-Grid" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-4">
+            <g id="Group-2-Copy-54" transform="translate(71.000000, 63.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Rectangle-318" fill-opacity="0.0600000024" fill="#000000" xlink:href="#path-1"></use>
+            </g>
+            <g id="Group-2-Copy-65" transform="translate(297.000000, 63.000000)">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="Rectangle-318" fill-opacity="0.0600000024" fill="#000000" xlink:href="#path-3"></use>
+            </g>
+            <g id="Group-2-Copy-78" transform="translate(523.000000, 63.000000)">
+                <mask id="mask-6" fill="white">
+                    <use xlink:href="#path-5"></use>
+                </mask>
+                <use id="Rectangle-318" fill-opacity="0.0600000024" fill="#000000" xlink:href="#path-5"></use>
+            </g>
+            <g id="Group-2-Copy-80" transform="translate(747.000000, 63.000000)">
+                <mask id="mask-8" fill="white">
+                    <use xlink:href="#path-7"></use>
+                </mask>
+                <use id="Rectangle-318" fill-opacity="0.0600000024" fill="#000000" xlink:href="#path-7"></use>
+            </g>
+            <g id="Group-2-Copy-81" transform="translate(287.000000, 654.000000)">
+                <mask id="mask-10" fill="white">
+                    <use xlink:href="#path-9"></use>
+                </mask>
+                <g id="Rectangle-318">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-11)" xlink:href="#path-9"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-9"></use>
+                </g>
+            </g>
+            <text id="HERMANOS-LASER" font-family="Gotham-Bold, Gotham" font-size="16" font-weight="bold" line-spacing="24">
+                <tspan x="305" y="684" fill="#000000">HERMANOS LASER</tspan>
+                <tspan x="462.328" y="684" font-family="Gotham-Book, Gotham" font-weight="300" fill="#000000"></tspan>
+                <tspan x="305" y="708" font-family="Gotham-Book, Gotham" font-size="14" font-weight="300" fill="#8A8A8A"></tspan>
+                <tspan x="305" y="732" font-family="Gotham-Book, Gotham" font-size="14" font-weight="300" fill="#8A8A8A"></tspan>
+                <tspan x="305" y="756" font-family="Gotham-Book, Gotham" font-size="14" font-weight="300" fill="#8A8A8A"></tspan>
+                <tspan x="305" y="780" font-family="Gotham-Book, Gotham" font-size="14" font-weight="300" fill="#8A8A8A">19:15 hs</tspan>
+            </text>
+            <g id="Group-2-Copy-83" transform="translate(62.000000, 450.000000)">
+                <mask id="mask-13" fill="white">
+                    <use xlink:href="#path-12"></use>
+                </mask>
+                <g id="Rectangle-318">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-14)" xlink:href="#path-12"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-12"></use>
+                </g>
+            </g>
+            <g id="Group-2-Copy-84" transform="translate(63.000000, 711.000000)">
+                <mask id="mask-16" fill="white">
+                    <use xlink:href="#path-15"></use>
+                </mask>
+                <g id="Rectangle-318">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-17)" xlink:href="#path-15"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-15"></use>
+                </g>
+            </g>
+            <g id="Group-2-Copy-95" transform="translate(63.000000, 953.000000)">
+                <mask id="mask-19" fill="white">
+                    <use xlink:href="#path-18"></use>
+                </mask>
+                <g id="Rectangle-318">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-20)" xlink:href="#path-18"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-18"></use>
+                </g>
+            </g>
+            <g id="Group-2-Copy-96" transform="translate(512.000000, 123.000000)">
+                <mask id="mask-22" fill="white">
+                    <use xlink:href="#path-21"></use>
+                </mask>
+                <g id="Rectangle-318">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-23)" xlink:href="#path-21"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-21"></use>
+                </g>
+            </g>
+            <g id="Group-2-Copy-97" transform="translate(512.000000, 246.000000)">
+                <mask id="mask-25" fill="white">
+                    <use xlink:href="#path-24"></use>
+                </mask>
+                <g id="Rectangle-318">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-26)" xlink:href="#path-24"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-24"></use>
+                </g>
+            </g>
+            <g id="Group-2-Copy-98" transform="translate(71.000000, 63.000000)">
+                <mask id="mask-28" fill="white">
+                    <use xlink:href="#path-27"></use>
+                </mask>
+                <use id="Rectangle-318" fill="#E45F96" xlink:href="#path-27"></use>
+            </g>
+            <g id="Group-2-Copy-99" transform="translate(297.000000, 63.000000)">
+                <mask id="mask-30" fill="white">
+                    <use xlink:href="#path-29"></use>
+                </mask>
+                <use id="Rectangle-318" fill="#FF5E2C" xlink:href="#path-29"></use>
+            </g>
+            <g id="Group-2-Copy-100" transform="translate(522.000000, 63.000000)">
+                <mask id="mask-32" fill="white">
+                    <use xlink:href="#path-31"></use>
+                </mask>
+                <use id="Rectangle-318" fill="#3A93E0" xlink:href="#path-31"></use>
+            </g>
+            <g id="Group-2-Copy-101" transform="translate(747.000000, 63.000000)">
+                <mask id="mask-34" fill="white">
+                    <use xlink:href="#path-33"></use>
+                </mask>
+                <use id="Rectangle-318" fill="#68468D" xlink:href="#path-33"></use>
+            </g>
+            <text id="MANDRAKE" font-family="Gotham-Bold, Gotham" font-size="16" font-weight="bold" line-spacing="24">
+                <tspan x="530" y="153" fill="#000000">MANDRAKE</tspan>
+                <tspan x="628.288" y="153" font-family="Gotham-Book, Gotham" font-weight="300" fill="#000000"></tspan>
+                <tspan x="530" y="177" font-family="Gotham-Book, Gotham" font-size="14" font-weight="300" fill="#8A8A8A">16:00 hs</tspan>
+            </text>
+            <text id="LOS-PROLIJOS" font-family="Gotham-Bold, Gotham" font-size="16" font-weight="bold" line-spacing="24">
+                <tspan x="80" y="480" fill="#000000">LOS PROLIJOS</tspan>
+                <tspan x="80" y="504" fill="#000000"></tspan>
+                <tspan x="80" y="528" fill="#000000"></tspan>
+                <tspan x="80" y="552" font-family="Gotham-Book, Gotham" font-weight="300" fill="#000000"></tspan>
+                <tspan x="80" y="576" font-family="Gotham-Book, Gotham" font-size="14" font-weight="300" fill="#8A8A8A">18:00 hs</tspan>
+            </text>
+            <text id="CROUPIER-FUNK" font-family="Gotham-Bold, Gotham" font-size="16" font-weight="bold" line-spacing="24">
+                <tspan x="81" y="741" fill="#000000">CROUPIER FUNK</tspan>
+                <tspan x="81" y="765" fill="#000000"></tspan>
+                <tspan x="81" y="789" fill="#000000"></tspan>
+                <tspan x="81" y="813" font-family="Gotham-Book, Gotham" font-weight="300" fill="#000000"></tspan>
+                <tspan x="81" y="837" font-family="Gotham-Book, Gotham" font-size="14" font-weight="300" fill="#8A8A8A">19:30 hs</tspan>
+            </text>
+            <text id="ONDA-VAGA" font-family="Gotham-Bold, Gotham" font-size="16" font-weight="bold" line-spacing="24">
+                <tspan x="81" y="983" fill="#000000">ONDA VAGA</tspan>
+                <tspan x="81" y="1007" fill="#000000"></tspan>
+                <tspan x="81" y="1031" fill="#000000"></tspan>
+                <tspan x="81" y="1055" font-family="Gotham-Book, Gotham" font-weight="300" fill="#000000"></tspan>
+                <tspan x="81" y="1079" font-family="Gotham-Book, Gotham" font-size="14" font-weight="300" fill="#8A8A8A">21:00 hs</tspan>
+            </text>
+            <text id="SEÑOR-FARAON" font-family="Gotham-Bold, Gotham" font-size="16" font-weight="bold" line-spacing="24">
+                <tspan x="530" y="276" fill="#000000">SEÑOR FARAON</tspan>
+                <tspan x="667.152" y="276" font-family="Gotham-Book, Gotham" font-weight="300" fill="#000000"></tspan>
+                <tspan x="530" y="300" font-family="Gotham-Book, Gotham" font-size="14" font-weight="300" fill="#8A8A8A">16:45 hs</tspan>
+            </text>
+            <text id="SALA-FABINI-Copy-2" font-family="AgencyFB-Bold, Agency FB" font-size="24" font-style="condensed" font-weight="bold" line-spacing="54" fill="#FFFFFF">
+                <tspan x="116.494141" y="90">SALA FABINI</tspan>
+            </text>
+            <text id="SALA-BALZO-Copy-2" font-family="AgencyFB-Bold, Agency FB" font-size="24" font-style="condensed" font-weight="bold" line-spacing="54" fill="#FFFFFF">
+                <tspan x="342.980469" y="90">SALA BALZO</tspan>
+            </text>
+            <text id="TANQUERAY" font-family="AgencyFB-Bold, Agency FB" font-size="24" font-style="condensed" font-weight="bold" line-spacing="54" fill="#FFFFFF">
+                <tspan x="568.060547" y="90">TANQUERAY</tspan>
+            </text>
+            <text id="HABLAR-Y-LEER-Copy" font-family="AgencyFB-Bold, Agency FB" font-size="24" font-style="condensed" font-weight="bold" line-spacing="54" fill="#FFFFFF">
+                <tspan x="777.753906" y="90">HABLAR Y LEER</tspan>
+            </text>
+            <g id="Group-2-Copy-102" transform="translate(512.000000, 368.000000)">
+                <mask id="mask-36" fill="white">
+                    <use xlink:href="#path-35"></use>
+                </mask>
+                <g id="Rectangle-318">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-37)" xlink:href="#path-35"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-35"></use>
+                </g>
+            </g>
+            <g id="Group-2-Copy-103" transform="translate(512.000000, 613.000000)">
+                <mask id="mask-39" fill="white">
+                    <use xlink:href="#path-38"></use>
+                </mask>
+                <g id="Rectangle-318">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-40)" xlink:href="#path-38"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-38"></use>
+                </g>
+            </g>
+            <g id="Group-2-Copy-111" transform="translate(512.000000, 876.000000)">
+                <mask id="mask-42" fill="white">
+                    <use xlink:href="#path-41"></use>
+                </mask>
+                <g id="Rectangle-318">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-43)" xlink:href="#path-41"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-41"></use>
+                </g>
+            </g>
+            <g id="Group-2-Copy-104" transform="translate(512.000000, 1118.000000)">
+                <mask id="mask-45" fill="white">
+                    <use xlink:href="#path-44"></use>
+                </mask>
+                <g id="Rectangle-318">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-46)" xlink:href="#path-44"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-44"></use>
+                </g>
+            </g>
+            <text id="SEBASTIAN-CASAFUA" font-family="Gotham-Bold, Gotham" font-size="16" font-weight="bold" line-spacing="24" letter-spacing="-0.899999976">
+                <tspan x="530" y="398" fill="#000000">SEBASTIAN CASAFUA</tspan>
+                <tspan x="530" y="422" font-family="Gotham-Book, Gotham" font-size="14" font-weight="300" fill="#8A8A8A">17:30 hs</tspan>
+            </text>
+            <text id="ALFONSINA" font-family="Gotham-Bold, Gotham" font-size="16" font-weight="bold" line-spacing="24">
+                <tspan x="530" y="643" fill="#000000">ALFONSINA</tspan>
+                <tspan x="530" y="667" font-family="Gotham-Book, Gotham" font-size="14" font-weight="300" fill="#8A8A8A">19:00 hs</tspan>
+            </text>
+            <text id="FRANNY-GLASS" font-family="Gotham-Bold, Gotham" font-size="16" font-weight="bold" line-spacing="24">
+                <tspan x="530" y="906" fill="#000000">FRANNY GLASS</tspan>
+                <tspan x="530" y="930" font-family="Gotham-Book, Gotham" font-size="14" font-weight="300" fill="#8A8A8A">20:30 hs</tspan>
+            </text>
+            <text id="GARO" font-family="Gotham-Bold, Gotham" font-size="16" font-weight="bold" line-spacing="24">
+                <tspan x="530" y="1148" fill="#000000">GARO</tspan>
+                <tspan x="530" y="1172" font-family="Gotham-Book, Gotham" font-size="14" font-weight="300" fill="#8A8A8A">22:00 hs</tspan>
+            </text>
+            <g id="Group-2-Copy-105" transform="translate(288.000000, 205.000000)">
+                <mask id="mask-48" fill="white">
+                    <use xlink:href="#path-47"></use>
+                </mask>
+                <g id="Rectangle-318-Copy-9">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-49)" xlink:href="#path-47"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-47"></use>
+                </g>
+            </g>
+            <text id="MUSHI-MUSHI-+-" font-family="Gotham-Bold, Gotham" font-size="16" font-weight="bold" line-spacing="24">
+                <tspan x="306" y="235" fill="#000000">MUSHI MUSHI + </tspan>
+                <tspan x="306" y="259" fill="#000000">OJOS DEL CIELO</tspan>
+                <tspan x="306" y="283" fill="#000000"></tspan>
+                <tspan x="306" y="307" font-family="Gotham-Book, Gotham" font-weight="300" fill="#000000"></tspan>
+                <tspan x="306" y="331" font-family="Gotham-Book, Gotham" font-size="14" font-weight="300" fill="#8A8A8A">16:30 hs</tspan>
+            </text>
+            <g id="Group-2-Copy-106" transform="translate(63.000000, 1199.000000)">
+                <mask id="mask-51" fill="white">
+                    <use xlink:href="#path-50"></use>
+                </mask>
+                <g id="Rectangle-318">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-52)" xlink:href="#path-50"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-50"></use>
+                </g>
+            </g>
+            <text id="BUENOS-MUCHACHOS" font-family="Gotham-Bold, Gotham" font-size="16" font-weight="bold" line-spacing="24">
+                <tspan x="81" y="1229" fill="#000000">BUENOS </tspan>
+                <tspan x="81" y="1253" fill="#000000">MUCHACHOS</tspan>
+                <tspan x="191.4" y="1253" font-family="Gotham-Book, Gotham" font-size="14" font-weight="300" fill="#8A8A8A"></tspan>
+                <tspan x="81" y="1277" font-family="Gotham-Book, Gotham" font-size="14" font-weight="300" fill="#8A8A8A"></tspan>
+                <tspan x="81" y="1301" font-family="Gotham-Book, Gotham" font-size="14" font-weight="300" fill="#8A8A8A"></tspan>
+                <tspan x="81" y="1325" font-family="Gotham-Book, Gotham" font-size="14" font-weight="300" fill="#8A8A8A">22:30 hs</tspan>
+            </text>
+            <g id="Group-2-Copy-107" transform="translate(287.000000, 1118.000000)">
+                <mask id="mask-54" fill="white">
+                    <use xlink:href="#path-53"></use>
+                </mask>
+                <g id="Rectangle-318">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-55)" xlink:href="#path-53"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-53"></use>
+                </g>
+            </g>
+            <text id="AFC-+-DOSTRESCINCO-" font-family="Gotham-Bold, Gotham" font-size="16" font-weight="bold" line-spacing="24">
+                <tspan x="305" y="1148" fill="#000000">AFC + </tspan>
+                <tspan x="305" y="1172" fill="#000000">DOSTRESCINCO </tspan>
+                <tspan x="305" y="1196" fill="#000000"></tspan>
+                <tspan x="305" y="1220" font-family="Gotham-Book, Gotham" font-weight="300" fill="#000000"></tspan>
+                <tspan x="305" y="1244" font-family="Gotham-Book, Gotham" font-size="14" font-weight="300" fill="#8A8A8A">22:00 hs</tspan>
+            </text>
+            <g id="Group-2-Copy-108" transform="translate(287.000000, 876.000000)">
+                <mask id="mask-57" fill="white">
+                    <use xlink:href="#path-56"></use>
+                </mask>
+                <g id="Rectangle-318">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-58)" xlink:href="#path-56"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-56"></use>
+                </g>
+            </g>
+            <text id="HABLAN-POR-LA-ESPALD" font-family="Gotham-Bold, Gotham" font-size="16" font-weight="bold" line-spacing="24">
+                <tspan x="305" y="906" fill="#000000">HABLAN POR LA </tspan>
+                <tspan x="305" y="930" fill="#000000">ESPALDA</tspan>
+                <tspan x="305" y="954" fill="#000000"></tspan>
+                <tspan x="305" y="978" font-family="Gotham-Book, Gotham" font-weight="300" fill="#000000"></tspan>
+                <tspan x="305" y="1002" font-family="Gotham-Book, Gotham" font-size="14" font-weight="300" fill="#8A8A8A">20:30 hs</tspan>
+            </text>
+            <g id="Group-2-Copy-109" transform="translate(287.000000, 450.000000)">
+                <mask id="mask-60" fill="white">
+                    <use xlink:href="#path-59"></use>
+                </mask>
+                <g id="Rectangle-318">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-61)" xlink:href="#path-59"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-59"></use>
+                </g>
+            </g>
+            <g id="Group-2-Copy-110" transform="translate(737.000000, 450.000000)">
+                <mask id="mask-63" fill="white">
+                    <use xlink:href="#path-62"></use>
+                </mask>
+                <g id="Rectangle-318">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-64)" xlink:href="#path-62"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-62"></use>
+                </g>
+            </g>
+            <text id="ETE-&amp;-LOS-PROBLEMS" font-family="Gotham-Bold, Gotham" font-size="16" font-weight="bold" line-spacing="24">
+                <tspan x="305" y="480" fill="#000000">ETE &amp; LOS </tspan>
+                <tspan x="305" y="504" fill="#000000">PROBLEMS</tspan>
+                <tspan x="305" y="528" fill="#000000"></tspan>
+                <tspan x="305" y="552" font-family="Gotham-Book, Gotham" font-weight="300" fill="#000000"></tspan>
+                <tspan x="305" y="576" font-family="Gotham-Book, Gotham" font-size="14" font-weight="300" fill="#8A8A8A">18:00 hs</tspan>
+            </text>
+            <text id="MÚSICA-EN-LA-" font-family="Gotham-Bold, Gotham" font-size="16" font-weight="bold" line-spacing="24">
+                <tspan x="755" y="480" fill="#000000">MÚSICA EN LA </tspan>
+                <tspan x="755" y="504" fill="#000000">ERA DIGITAL</tspan>
+                <tspan x="755" y="528" font-family="Gotham-Book, Gotham" font-weight="300" fill="#000000">(CARLOS TARÁN)</tspan>
+                <tspan x="903.304" y="528" fill="#000000"></tspan>
+                <tspan x="755" y="552" font-family="Gotham-Book, Gotham" font-weight="300" fill="#000000"></tspan>
+                <tspan x="755" y="576" font-family="Gotham-Book, Gotham" font-size="14" font-weight="300" fill="#8A8A8A">18:00 hs</tspan>
+            </text>
+            <mask id="mask-66" fill="white">
+                <use xlink:href="#path-65"></use>
+            </mask>
+            <g id="Rectangle-318-Copy-12">
+                <use fill="black" fill-opacity="1" filter="url(#filter-67)" xlink:href="#path-65"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-65"></use>
+            </g>
+            <text id="111-DISCOS-URUGUAYOS" mask="url(#mask-66)" font-family="Gotham-Bold, Gotham" font-size="16" font-weight="bold" line-spacing="24">
+                <tspan x="755" y="1014" fill="#000000">111 DISCOS </tspan>
+                <tspan x="755" y="1038" fill="#000000">URUGUAYOS</tspan>
+                <tspan x="755" y="1062" font-family="Gotham-Book, Gotham" font-weight="300" fill="#000000">(ANDRÉS TORRÓN)</tspan>
+                <tspan x="917.352" y="1062" font-family="Gotham-Book, Gotham" font-size="14" font-weight="300" fill="#000000"> </tspan>
+                <tspan x="755" y="1086" font-family="Gotham-Book, Gotham" font-size="14" font-weight="300" fill="#8A8A8A">21:15 hs</tspan>
+            </text>
+            <mask id="mask-69" fill="white">
+                <use xlink:href="#path-68"></use>
+            </mask>
+            <g id="Rectangle-318-Copy-13">
+                <use fill="black" fill-opacity="1" filter="url(#filter-70)" xlink:href="#path-68"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-68"></use>
+            </g>
+            <text id="PARACETAMOL" mask="url(#mask-69)" font-family="Gotham-Bold, Gotham" font-size="16" font-weight="bold" line-spacing="24">
+                <tspan x="755" y="735" fill="#000000">PARACETAMOL</tspan>
+                <tspan x="755" y="759" fill="#000000">500 MG</tspan>
+                <tspan x="755" y="783" font-family="Gotham-Book, Gotham" font-weight="300" fill="#000000">(FERMÍN SOLANA)</tspan>
+                <tspan x="909.32" y="783" font-family="Gotham-Book, Gotham" font-size="14" font-weight="300" fill="#000000"> </tspan>
+                <tspan x="755" y="807" font-family="Gotham-Book, Gotham" font-size="14" font-weight="300" fill="#8A8A8A">19:30 hs</tspan>
+            </text>
+            <mask id="mask-72" fill="white">
+                <use xlink:href="#path-71"></use>
+            </mask>
+            <g id="Rectangle-318-Copy-11">
+                <use fill="black" fill-opacity="1" filter="url(#filter-73)" xlink:href="#path-71"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-71"></use>
+            </g>
+            <text id="QUIERO-PURÉ" mask="url(#mask-72)" font-family="Gotham-Bold, Gotham" font-size="16" font-weight="bold" line-spacing="24">
+                <tspan x="755" y="882" fill="#000000">QUIERO PURÉ</tspan>
+                <tspan x="755" y="906" font-family="Gotham-Book, Gotham" font-weight="300" fill="#000000">LEO LAGOS</tspan>
+                <tspan x="852.952" y="906" font-family="Gotham-Book, Gotham" font-size="14" font-weight="300" fill="#000000"> </tspan>
+                <tspan x="755" y="930" font-family="Gotham-Book, Gotham" font-size="14" font-weight="300" fill="#8A8A8A">20:00 hs</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
