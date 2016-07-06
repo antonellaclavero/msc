@@ -94,7 +94,9 @@ a.parallelogram {
   transform: skewX(-17deg); 
 }
 a.parallelogram p { 
-  transform: skewX(17deg); 
+  transform: skewX(17deg);
+  left: 0;
+  padding: 0; 
 }
 a.parallelogram {
   display: inline-block;
