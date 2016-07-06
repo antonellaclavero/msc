@@ -114,6 +114,7 @@ a.parallelogram {
 /*
 * Section LineUp
 */
+
 section.line-up {
   background: transparent url("../images/background-pattern.svg") center top no-repeat;
   background-size: cover;
@@ -137,4 +138,7 @@ section.line-up div.column article img {
   -mos-osx-box-shadow: 0px 9px 15px -4px #222;
 }
 
+/*
+* Section Event
+*/
 
