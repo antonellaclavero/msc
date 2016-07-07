@@ -219,6 +219,13 @@ footer div.row h2 {
 footer div.row img.resize {
   width: 60px;
 }
+footer div.row img.resize-agadu {
+  width: 130px;
+}
+footer div.row li.border-left {
+  border-left: 2px solid #340604;
+  padding: 0 0 0 3%;
+}
 footer span {
   display: none;
 }
