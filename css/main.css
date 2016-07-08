@@ -145,16 +145,26 @@ section.line-up .band {
 }
 
 section.line-up .band:hover .overlay {
-  opacity: 0.6;
+  opacity: 0.8;
 }
 
 section.line-up .band .overlay {
   opacity: 0;
-  background-color: red;
+  background-color: #FA5626;
   width: 265px;
   height: 200px;
   position: relative;
   bottom: 203px;
+}
+div.overlay h1 {
+  font-family: "Gotham Bold", sans-serif;
+  color: #fff;
+  font-weight: 700;
+  font-size: 20pt;
+  line-height: 20pt;
+  position: relative;
+  top: 80px;
+  letter-spacing: 0.2px;
 }
 
 /*end hover effect*/
