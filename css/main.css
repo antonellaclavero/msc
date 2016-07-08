@@ -137,6 +137,28 @@ section.line-up div.column article img {
   -webkit-box-shadow: 0px 9px 15px -4px #222;
   -mos-osx-box-shadow: 0px 9px 15px -4px #222;
 }
+
+/*hover effect*/
+
+section.line-up .band {
+  height: 200px;
+}
+
+section.line-up .band:hover .overlay {
+  opacity: 0.6;
+}
+
+section.line-up .band .overlay {
+  opacity: 0;
+  background-color: red;
+  width: 265px;
+  height: 200px;
+  position: relative;
+  bottom: 203px;
+}
+
+/*end hover effect*/
+
 section.line-up div.two-columns {
   padding: 0 25%;
 }
