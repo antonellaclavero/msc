@@ -46,6 +46,33 @@ h3 {
   color: #360000;
 }
 
+/*Parallelogram Titles*/
+
+div.container-parallelogram {
+  text-align: center;
+  padding: 3em 0 1.8em 0;
+}
+a.parallelogram { 
+  transform: skewX(-17deg); 
+}
+a.parallelogram p { 
+  transform: skewX(17deg);
+  left: 0;
+  padding: 0; 
+}
+a.parallelogram {
+  display: inline-block;
+  margin: .5em;
+  padding: 17px 2%;
+  background: #1B0A09;
+  color: #fff;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-family: "AgencyFB-Bold", sans-serif;
+  font-size: 18pt;
+  letter-spacing: 1px;
+}
+
 /*
 * HEADER
 */
@@ -84,33 +111,17 @@ h1.sale-info {
   letter-spacing: 1px;
 }
 
-/*Parallelogram Titles*/
-
-div.container-parallelogram {
-  text-align: center;
-  padding: 3em 0 1.8em 0;
-}
-a.parallelogram { 
-  transform: skewX(-17deg); 
-}
-a.parallelogram p { 
-  transform: skewX(17deg);
-  left: 0;
-  padding: 0; 
-}
-a.parallelogram {
+/* Navigation */
+nav h1 {
   display: inline-block;
-  margin: .5em;
-  padding: 17px 2%;
-  background: #1B0A09;
-  color: #fff;
-  text-transform: uppercase;
-  text-decoration: none;
-  font-family: "AgencyFB-Bold", sans-serif;
-  font-size: 18pt;
-  letter-spacing: 1px;
+  font-size: 22pt;
+  line-height: 22pt;
+  text-align: left;
 }
-
+nav a {
+  font-size: 18pt;
+  line-height: 18pt;
+}
 /*
 * Section LineUp
 */
