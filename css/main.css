@@ -164,7 +164,7 @@ div.overlay h1 {
   line-height: 20pt;
   position: relative;
   top: 80px;
-  letter-spacing: 0.2px;
+  letter-spacing: 0;
 }
 
 /*end hover effect*/
@@ -278,6 +278,9 @@ footer div.row.second {
 footer div.row.last {
   padding: 38px 20%;
   margin: 30px 0 60px 0;
+}
+footer li a.icon-email img {
+  margin-bottom: 0.3em;
 }
 
 
