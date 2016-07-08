@@ -204,7 +204,7 @@ section.programing img {
 */
 footer {
   background: url("../images/pattern-1.svg") no-repeat repeat;
-  padding: 0 102px 0 110px;
+  padding: 0 10% 0 7.5%;
   overflow: auto;
 }
 footer ul li {
@@ -241,7 +241,7 @@ footer div.row.first {
   margin: 68px 0;
 }
 footer div.row.second {
-  padding: 45px 5%;
+  padding: 45px 3%;
 }
 footer div.row.last {
   padding: 38px 20%;
