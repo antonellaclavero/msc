@@ -9,6 +9,7 @@
   <link rel="stylesheet" href="css/main.css">
   <link rel="stylesheet" href="css/fonts.css">
   <link rel="icon" type="images" href="">
+  <script src="http://code.jquery.com/jquery-latest.js"></script>
 </head>
 <body>
     <!--[if lt IE 7]>
@@ -733,6 +734,20 @@
             </ul>
           </div>
       </footer>
+
+      <script type="text/javascript">
+        (function($) {
+          $(document).ready(function(){
+            $(window).scroll(function(){
+              if ($(this).scrollTop() > 200) {
+                $('nav').fadeIn(500);
+              } else {
+                $('nav').fadeOut(500);
+              }
+            });
+          });
+        })(jQuery);
+      </script>
 </body>
 </html>
 
