@@ -9,7 +9,8 @@
   <link rel="stylesheet" href="css/main.css">
   <link rel="stylesheet" href="css/fonts.css">
   <link rel="icon" type="images" href="">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
+  <script src="http://code.jquery.com/jquery-latest.js"></script>
+>>>>>>> 9d5ce8536a026c7396ef41f2876ec2cd82665de2
 </head>
 <body>
     <!--[if lt IE 7]>
@@ -734,6 +735,20 @@
             </ul>
           </div>
       </footer>
+
+      <script type="text/javascript">
+        (function($) {
+          $(document).ready(function(){
+            $(window).scroll(function(){
+              if ($(this).scrollTop() > 200) {
+                $('nav').fadeIn(500);
+              } else {
+                $('nav').fadeOut(500);
+              }
+            });
+          });
+        })(jQuery);
+      </script>
 </body>
 </html>
 
