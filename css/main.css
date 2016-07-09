@@ -271,7 +271,7 @@ section.programing img {
 * Footer
 */
 footer {
-  background: url("../images/pattern-1.svg") no-repeat repeat;
+  background: url("../images/pattern-1.svg") repeat;
   padding: 0 10% 0 7.5%;
   overflow: auto;
 }
