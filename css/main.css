@@ -470,8 +470,8 @@ footer li a.icon-email img {
 }
 @media screen and (max-width: 320px) {
   nav {
-    width: 90%;
-    padding: 20px 10%;
+    width: 92%;
+    padding: 20px 9%;
   }
   nav div.logo-nav {
     float: left;
