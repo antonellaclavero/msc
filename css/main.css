@@ -112,6 +112,9 @@ h1.sale-info {
 }
 
 /* Navigation */
+
+
+
 nav h1 {
   display: inline-block;
   font-size: 22pt;
@@ -232,10 +235,10 @@ p {
 /*
 * Section Programing
 */
-section.programing {
+/*section.programing {
   background: url("../images/textura.svg") center left no-repeat;
   background-size: cover;
-}
+}*/
 section.programing img {
   margin: 0 auto;
   display: block;
