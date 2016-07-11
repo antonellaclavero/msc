@@ -366,6 +366,15 @@ footer li a.icon-email img {
     width: 44.5%;
     margin-right: 5.5%;
   }
+  section.line-up div.two-columns div.column {
+    width: 44.5%;
+  }
+  section.line-up div.column article img {
+    width: 100%;
+  }
+  section.line-up div.two-columns {
+    padding: 0 0;
+  }
   section.container.even.cards {
     padding: 110px 11% 50px;
   }
