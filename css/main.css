@@ -344,11 +344,13 @@ footer li a.icon-email img {
     text-align: center;
   }
   nav {
-    width: 64%;
-    padding: 20px 18%;
+    width: 73%;
+    padding: 20px 17%;
   }
   nav div.nav-right {
     margin: 0.5em 0 0 0;
+    float: none;
+    text-align: center;
   }
   section.line-up {
     padding: 0 12%;
