@@ -305,14 +305,14 @@ footer span {
   display: none;
 }
 footer div.row.first {
-  padding: 53px 3%;
+  padding: 53px 2%;
   margin: 68px 0;
 }
 footer div.row.second {
-  padding: 45px 3%;
+  padding: 45px 2%;
 }
 footer div.row.last {
-  padding: 40px 18%;
+  padding: 40px 17%;
   margin: 30px 0 60px 0;
 }
 footer li a.icon-email img {
@@ -326,7 +326,14 @@ footer li a.icon-email img {
 
 @media screen and (max-width: 1200px) {
   section.line-up {
-    padding: 0 3%;
+    padding: 0 0 0 1%;
+  }
+  section.container.even.cards {
+    padding: 110px 7% 50px;
+  }
+  section.container div.column {
+    width: 42%;
+    margin-right: 7%;
   }
   section.container.even.cards {
     padding: 110px 5% 50px;
