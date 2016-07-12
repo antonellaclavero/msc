@@ -220,14 +220,68 @@ div.overlay h1 {
 .band .modal .content {
   position: relative;
   z-index: 100;
-  margin: 16em auto;
+  margin: 0 auto;
+  top: 220px;
   display: block;
-
-  height: 500px;
-  width: 500px;
-  background-color: red;
+  height: auto;
+  width: 44%;
+  background-color: #fff;
+  position: relative;
+  padding: 15px 3%;
+  font-family: 'Gotham Book', sans-serif;
+  color: #444;
+  font-size: 12pt;
+  line-height: 16pt;
 }
-
+.band .modal .content img.close-modal {
+  float: right;
+  box-shadow: none;
+  margin: 0.5em 0 0 0;
+}
+.band .modal .content h1 {
+  color: #F15F35;
+  text-align: left;
+  font-size: 30pt;
+  line-height: 30pt;
+  margin: 1.5em 0 0.5em 0;
+  position: relative;
+  left: 33px;
+}
+.band .modal .content p {
+  text-align: left;
+  position: relative;
+  left: 36px;
+  line-height: 18pt;
+  padding: 0 10% 0 0;
+}
+.band .modal .content ul {
+  margin: 2em 0;
+}
+.band .modal .content ul li {
+  display: inline-block;
+  position: relative;
+  left: 36px;
+  margin: 0 0.5em;
+}
+.band .modal .content ul li a {
+  font-size: 14pt;
+  letter-spacing: 0.5px;
+  font-weight: bolder;
+}
+.band .modal .content ul li.border {
+  border-left: 1px solid #DBDCE2;
+  border-right: 1px solid #DBDCE2;
+  padding: 0 2%;
+}
+.band .modal .content ul li a.facebook-link:hover {
+  color: #3B5998;
+}
+.band .modal .content ul li a.twitter-link:hover {
+  color: #65BBF2;
+}
+.band .modal .content ul li a.site-link:hover {
+  color: #565656;
+}
 /* end modal */
 
 section.line-up div.two-columns {
