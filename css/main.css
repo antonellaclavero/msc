@@ -254,6 +254,9 @@ div.overlay h1 {
   line-height: 18pt;
   padding: 0 10% 0 0;
 }
+.band .modal .content p strong {
+  font-weight: bold;
+}
 .band .modal .content ul {
   margin: 2em 0;
 }
@@ -274,13 +277,13 @@ div.overlay h1 {
   border-right: 1px solid #DBDCE2;
   padding: 0 2%;
 }
-.band .modal .content ul li a.facebook-link:hover {
+.band .modal .content ul li a.facebook-link {
   color: #3B5998;
 }
-.band .modal .content ul li a.twitter-link:hover {
+.band .modal .content ul li a.twitter-link {
   color: #65BBF2;
 }
-.band .modal .content ul li a.site-link:hover {
+.band .modal .content ul li a.site-link {
   color: #565656;
 }
 /* end modal */
