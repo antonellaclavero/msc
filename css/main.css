@@ -250,7 +250,7 @@ div.overlay h1 {
 .band .modal .content p {
   text-align: left;
   position: relative;
-  left: 36px;
+  left: 33px;
   line-height: 18pt;
   padding: 0 10% 0 0;
 }
@@ -260,13 +260,14 @@ div.overlay h1 {
 .band .modal .content ul li {
   display: inline-block;
   position: relative;
-  left: 36px;
+  left: 27px;
   margin: 0 0.5em;
 }
 .band .modal .content ul li a {
   font-size: 14pt;
   letter-spacing: 0.5px;
   font-weight: bolder;
+  color: #444;
 }
 .band .modal .content ul li.border {
   border-left: 1px solid #DBDCE2;
