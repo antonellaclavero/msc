@@ -456,6 +456,9 @@ footer li a.icon-email img {
     width: 94%;
     top: 0;
   }
+  .band .modal .content img.close-modal {
+    width: auto;
+  }
   section.container.even.cards {
     padding: 110px 11% 50px;
   }
