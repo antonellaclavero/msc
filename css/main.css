@@ -446,6 +446,14 @@ footer li a.icon-email img {
   section.line-up div.column article img {
     width: 100%;
   }
+  section.line-up .band .overlay {
+    opacity: 0;
+    background-color: #FA5626;
+    width: 100%;
+    height: 203px;
+    position: relative;
+    bottom: 206px;
+  }
   section.line-up div.two-columns {
     padding: 0 0;
   }
