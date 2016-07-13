@@ -178,12 +178,11 @@ section.line-up div.column article img {
 
 section.line-up .band {
   height: 200px;
+  cursor: pointer;
 }
-
 section.line-up .band:hover .overlay {
   opacity: 0.8;
 }
-
 section.line-up .band .overlay {
   opacity: 0;
   background-color: #FA5626;
@@ -336,14 +335,6 @@ p {
   left: 138px;
   padding: 0 17% 0 0
 }
-
-/*
-* Section Programing
-*/
-/*section.programing {
-  background: url("../images/textura.svg") center left no-repeat;
-  background-size: cover;
-}*/
 section.programing img {
   margin: 0 auto;
   display: block;
@@ -439,6 +430,13 @@ footer li a.icon-email img {
   section.line-up div.column {
     width: 44.5%;
     margin-right: 5.5%;
+  }
+  .band .modal {
+    overflow: scroll;
+  }
+  .band .modal .content {
+    width: 94%;
+    top: 0;
   }
   section.container.even.cards {
     padding: 110px 11% 50px;
@@ -546,6 +544,23 @@ footer li a.icon-email img {
   }
   section.line-up {
     padding: 0 15%;
+  }
+  .band .modal .content {
+    width: 86%;
+    padding: 15px 7%;
+    top: 0;
+  }
+  .band .modal .content h1 {
+    left: 0;
+  }
+  .band .modal .content p {
+    font-size: 10pt;
+    line-height: 12pt;
+    padding: 0;
+    left: 0;
+  }
+  .band .modal .content ul li {
+    left: 0;
   }
   section.container.even.cards {
     padding: 15px 3% 50px;
