@@ -104,14 +104,6 @@ header.hero {
   width: 100%;
   height: 100vh;
 }
-h1.sale-info {
-  color: #fff;
-  background-color: #e45f96;
-  font-size: 24pt;
-  line-height: 24pt;
-  padding: 50px 0;
-  letter-spacing: 1px;
-}
 
 /* Navigation */
 
@@ -396,6 +388,43 @@ footer li a.icon-email img {
 * Media Queries
 */
 
+/*--------------FLYER---------*/
+
+
+.flyer {
+    background: url("../images/pattern-1.svg") repeat;
+    margin: 0 auto;
+    text-align: center;
+}
+img{
+    margin: 0 auto;
+ 
+}
+
+/*------------------------------------------------------------------
+	+ Video
+-------------------------------------------------------------------*/
+
+#video {
+    padding: 100px;
+    position: relative;
+    background-size: cover;
+    background-color: #e45f96;
+    text-align: center; }
+    #video a {
+        display: inline-block;
+        color: #fff; }
+    #video h4 {
+        margin-bottom: 20px; }
+
+h1.sale-info {
+  color: #fff;
+  background-color: #e45f96;
+  font-size: 24pt;
+  line-height: 24pt;
+  padding: 50px;
+  letter-spacing: 1px;
+}
 
 @media screen and (max-width: 1200px) {
   section.line-up {
@@ -417,6 +446,16 @@ footer li a.icon-email img {
   footer div.row.second {
     padding: 45px 1%;
   }
+  .flyer {
+    background: url("../images/pattern-1.svg") repeat;
+    margin: 0 auto;
+    text-align: center;
+}
+img{
+    margin: 0 auto;
+ 
+}
+
 }
 @media screen and (max-width: 768px) {
   nav div.logo-nav {
@@ -499,6 +538,22 @@ footer li a.icon-email img {
   footer div.row.second {
     padding: 30px 0;
   }
+
+.flyer img{
+    width: 75%;
+ 
+}
+
+}
+@media screen and (max-width: 520px) {
+#video {
+    padding: 50px; }
+
+h1.sale-info {
+  font-size: 19pt;
+  padding: 10px;
+
+}
 }
 @media screen and (max-width: 450px) {
   nav {
@@ -556,6 +611,14 @@ footer li a.icon-email img {
   footer div.row.second {
     padding: 30px 0;
   }
+#video {
+    padding: 50px; }
+
+h1.sale-info {
+  font-size: 19pt;
+  padding: 10px;
+
+}
 }
 @media screen and (max-width: 375px) {
   nav {
