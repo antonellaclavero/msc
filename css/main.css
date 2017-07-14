@@ -371,9 +371,11 @@ footer span {
 footer div.row.first {
   padding: 53px 2%;
   margin: 68px 0;
+  text-align: center;
 }
 footer div.row.second {
   padding: 45px 2%;
+  text-align: center;
 }
 footer div.row.last {
   padding: 40px 17%;
