@@ -406,6 +406,8 @@ img{
 #boton {
     padding: 100px;
    background-color: white;
+   visibility: hidden;
+   display: none;
    
     text-align: center; }
     #boton a {
