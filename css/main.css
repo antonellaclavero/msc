@@ -401,8 +401,23 @@ img{
     margin: 0 auto;
  
 }
+/**/
 
-
+#boton {
+    padding: 100px;
+   background-color: white;
+   
+    text-align: center; }
+    #boton a {
+        z-index: 1000;
+        position: relative;
+        display: inline-block;
+        color: #fff;
+    background-color:#ff5200;
+    }
+    #boton a:hover{
+        background-color: #448aeb;
+    }
 /*------------------------------------------------------------------
 	+ Video
 -------------------------------------------------------------------*/
@@ -642,6 +657,9 @@ h1.sale-info {
 }
 }
 @media screen and (max-width: 375px) {
+        #boton {
+      padding: 20px;
+    }
   nav {
     width: 83%;
     padding: 20px 9%;
