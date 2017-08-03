@@ -36,6 +36,9 @@ and open the template in the editor.
       width: 100%;
     
 }
+.inicio img.y {
+    width: 100%;
+}
 .inicio img.l{
        position: absolute;
        margin-left: auto;
