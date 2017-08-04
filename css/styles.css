@@ -19,7 +19,30 @@ and open the template in the editor.
     margin: 0 auto;
     padding: 0 auto;
 }
+h1 {
+  font-size: 50pt;
+  line-height: 50pt;
+  letter-spacing: 3px;
+  font-family: "AgencyFB-Bold", sans-serif;
+  text-transform: uppercase;
+  text-align: center;
+  margin-top: 0px; 
+   margin-bottom: 0px; 
+   margin: 0px;
 
+}
+h2 {
+  font-family: 'Governor', sans-serif;
+  font-size: 21pt;
+  line-height: 21pt;
+  letter-spacing: 3px;
+}
+h3 {
+  font-size: 16pt;
+  line-height: 16pt;
+  letter-spacing: 1.8px;
+  font-family: "AgencyFB-Bold", sans-serif;
+}
 /*----------------------INICIO-----------------------*/
 .inicio a{
     position: absolute;
@@ -35,6 +58,9 @@ and open the template in the editor.
     margin-bottom: -5%;
       width: 100%;
     
+}
+.inicio img.y {
+    width: 100%;
 }
 .inicio img.l{
        position: absolute;
@@ -84,101 +110,172 @@ footer img.t{
 }
 
 
-.menu-toggle {
-    float: right;
-    position: fixed;
-    z-index: 99999;
-}
-.menu-toggle div {
-    height: 3px;
-    background: white;
-    width: 30px;
-    margin-bottom: 5px;
-}
 
-.open-menu{
-	
-	transform:scale(1)!important;
-    transition: 0.2s linear!important;
-}
-.menu-toggle-inner {
-    display: table;
-    background: black;
-    position: fixed;
-    width: 100%;
-    height: 100%;
-    transform: scale(0);
-    transition: 0.2s linear;
-}
-.menu-toggle {
-    cursor: pointer;
-    float: right;
-    margin: 40px;
-}
-.menu-container {
-    margin: 0 auto;
-    display: table-cell;
-    vertical-align: middle;
-    
-}
-.menu-container ul {
-    padding: 0;
-    margin: 0 auto;
-    width: 1170px;
-    
-}
-
-@media (max-width:900px){
-	.menu-container ul {
-    width: 100%;
-}
- 
-}
-.menu-container ul li {
-    list-style: none;
-}
-.menu-container ul li a {
-    font-family: "HelveticaNeueLTStd-BdCn";
-    text-transform: uppercase;
-    text-align: center;
-    text-decoration: none;
-    color: white;
-    font-size: 42px;
-    margin-bottom: 20px;
-    display: block;
-    border: 0px solid #333;
-    padding: 10px 40px;
-}
-@media screen and (max-width: 800px) {
-.menu-toggle {  
-    margin: 20px;
-}
-.menu-toggle div {
-    height: 2px;
-    background: white;
-    width: 15px;
-    margin-bottom: 2px;
-}
-.menu-container ul li a {
-    font-family: "HelveticaNeueLTStd-BdCn";
-    text-transform: uppercase;
-    text-align: center;
-    text-decoration: none;
-    color: white;
-    font-size: 20px;
-    margin-bottom: 20px;
-    display: block;
-    border: 0px solid #333;
-    padding: 10px 40px;
-}
-}
 @media screen and (max-width: 500px) {
-.menu-toggle {
-    margin: 10px;
-
-}
  .programacion img.t{
 
  margin-top: -2px;
 } 
 }
+
+
+.blue {
+  color: #448aeb;
+}
+.pink {
+  color: #ff50a2;
+}
+.orange {
+  color: #ff5200;
+}
+.brown {
+  color: #360000;
+}
+a {
+  text-decoration: none;
+}
+
+
+/*
+* HEADER
+*/
+.hdden {
+  display: none;
+  width: 100%;
+}
+
+header.hero {
+
+ 
+  display: table;
+  overflow: hidden;
+  width: 100%;
+}
+
+/* Navigation */
+
+nav {
+  position: fixed;
+  display: block;
+  width: 82%;
+  background-color: #fff;
+  padding: 20px 9%;
+  z-index: 50;
+  top: 0;
+}
+nav h1 {
+  display: inline-block;
+  font-size: 20pt;
+  line-height: 20pt;
+  text-align: left;
+   font-family: "AgencyFB-Bold", sans-serif;
+}
+nav ul li {
+  display: inline-block;
+  margin: 0 0.5em;
+}
+nav div.logo-nav {
+  float: left;
+}
+nav div.nav-right {
+  float: right;
+}
+nav a {
+  font-size: 16pt;
+  line-height: 16pt;
+  text-transform: uppercase;
+  font-family: "AgencyFB-Bold", sans-serif;
+  letter-spacing: 2px;
+}
+@media screen and (max-width: 1020px) {
+  nav h1 {
+  display: inline-block;
+  font-size: 19pt;
+  line-height: 19pt;
+  text-align: left;
+  font-family: "AgencyFB-Bold", sans-serif;
+}
+nav a {
+  font-size: 15pt;
+  line-height: 15pt;
+  text-transform: uppercase;
+  font-family: "AgencyFB-Bold", sans-serif;
+  letter-spacing: 2px;
+}
+}
+@media screen and (max-width: 930px) {
+  nav h1 {
+  display: inline-block;
+  font-size: 18pt;
+  line-height: 18pt;
+  text-align: left;
+  font-family: "AgencyFB-Bold", sans-serif;
+}
+nav a {
+  font-size: 14pt;
+  line-height: 14pt;
+  text-transform: uppercase;
+  font-family: "AgencyFB-Bold", sans-serif;
+  letter-spacing: 2px;
+}
+}
+@media screen and (max-width: 870px) {
+    nav{
+
+  padding: 15px 3%;
+
+}
+  
+  }
+  @media screen and (max-width: 770px) {
+    nav{
+  padding: 15px 3%;
+}
+ nav h1 {
+
+  font-size: 14pt;
+  line-height: 14pt;
+
+}
+nav a {
+  font-size: 12pt;
+  line-height: 12pt;
+
+}
+ul{
+    -webkit-padding-start: 0px;
+}
+  
+  }
+  @media screen and (max-width: 630px) {
+    nav{
+  padding: 15px 3%;
+}
+ nav h1 {
+  display: none;
+  visibility: hidden;
+  
+}
+nav a {
+  font-size: 12pt;
+  line-height: 12pt;
+
+}
+nav div.nav-right {
+  float: none;
+  margin: 0 auto;
+  text-align: center;
+}
+  
+  }
+    @media screen and (max-width: 620px) {
+    nav{
+  padding: 8px 3%;
+}}
+ @media screen and (max-width: 452px) {
+nav a {
+  font-size: 10pt;
+  line-height: 10pt;
+
+}
+ }

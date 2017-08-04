@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <!--
 To change this license header, choose License Headers in Project Properties.
 To change this template file, choose Tools | Templates
@@ -13,36 +13,44 @@ and open the template in the editor.
          <link rel="shortcut icon" type="image/png" href="img/disco.png" />
         <link rel="stylesheet" href="css/styles.css">
         <link rel="stylesheet" href="css/bootstrap.min.css">
+          <link rel="stylesheet" href="css/fonts.css">
+        <script src="http://code.jquery.com/jquery-latest.js"></script>
        
       
     </head>
     <body>
-        <div class="menu-toggle">
-		<div></div>
-		<div></div>
-		<div></div>
-	</div>
-	<div class="menu-toggle-inner">
-		<div class="menu-container">
-			<ul>
-				<li><a href="#inicio">inicio</a></li>
-                                <li><a href="#programacion">Programaci&oacute;n</a></li>
-				<li><a href="#footer">marcas</a></li>
-				
-			</ul>
-		</div>
-	</div>
+<header class="hero">
+          <nav class="hdden">
+            <div class="logo-nav">
+              <h1 class="blue">Montevideo</h1>
+                <h1 class="pink">Sound</h1>
+                <h1 class="orange">City</h1>
+            </div>
+            <div class="nav-right">
+              <ul>
+                <li>
+                  <a class="orange" href="#inicio">Home</a>
+                </li>
+                    <li>
+                  <a class="pink" href="#programacion">Programación</a>
+                </li>
+                <li>
+                  <a class="blue" href="https://soundcity.inzonesoft.com/Register" target="blank">Registra tu entrada</a>
+                </li>
+              </ul>
+            </div>
+          </nav>
+        </header>
         
         <div class="inicio" id="inicio">
              <div class="m-imagemap">
-		<img class="imagemap__img img-responsive " src="img/msc_1.png" alt="Infografik1" usemap="#imagemap1">
+		<img class="imagemap__img img-responsive y " src="img/msc_1.png" alt="Infografik1" usemap="#imagemap1">
                 <map id="imagemap1" name="imagemap1">
                     <area shape="rect" alt="register" coords="550,180,820,226" href="https://soundcity.inzonesoft.com/Register" target="blank" />
                      <AREA SHAPE="RECT" alt="facebook" COORDS="269,710,440,755" HREF="https://www.facebook.com/MVDSoundCity/" target="blank">
                     <AREA SHAPE="RECT" alt="twitter" COORDS="460,710,640,755" HREF="https://twitter.com/mvdsoundcity" target="blank">
                     <AREA SHAPE="RECT" alt="instagram" COORDS="850,710,1020,755" HREF="https://www.instagram.com/mvdsoundcity/" target="blank">
-                
-                   
+                    <AREA SHAPE="RECT" alt="instagram" COORDS="279,630,470,685" HREF=" https://tickantel.com.uy/inicio/espectaculo/40001840/espectaculo/Montevideo%20Sound%20City?0" target="blank">
                 </map>
              </div>
         
@@ -53,8 +61,51 @@ and open the template in the editor.
         </div>
         
         <footer id="footer">
-            <img src="img/msc_4.png" class="img-responsive t">
+            <div class="m-imagemap">
+		<img class="imagemap__img img-responsive t " src="img/msc_4.png" alt="Infografik1" usemap="#imagemap2">
+                <map id="imagemap1" name="imagemap2">
+                    <area shape="rect" alt="register" coords="640,680,700,720" href="mailto:mvdsoundcity@gmail.com" />
+                </map>
+            </div>
+            
+   
         </footer>
+        
+              <script type="text/javascript">
+        (function($) {
+          $(document).ready(function(){
+            $(window).scroll(function(){
+              if ($(this).scrollTop() > 100) {
+                $('nav').fadeIn(500);
+              } else {
+                $('nav').fadeOut(500);
+              }
+            });
+          });
+        })(jQuery);
+      </script>
+            <script type="text/javascript">
+        $(".band").each(function(index, band) {
+          $(band).children(".overlay").click(function() {
+            var $band = $(this);
+            var $modal = $band.parents().first().children(".modal").first();
+
+            $modal.css('display', 'block');
+          });
+
+          $(band).children('.modal').children('.content').children('.close-modal').click(function() {
+            var $modal = $(this).parents().first().parents().first();
+            $modal.css('display', 'none');
+          });
+        });
+
+        window.onclick = function(event) {
+          var $element = $(event.target);
+          if ($element.hasClass('modal')) {
+            $element.css('display', 'none');
+          }
+        }
+      </script>
         
               <script type="text/javascript">
         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
